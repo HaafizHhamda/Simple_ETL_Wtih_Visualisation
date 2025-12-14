@@ -1,4 +1,4 @@
-# Simple_ETL
+# Simple_ETL_With_Visualization
 ## Problem Background
 
 Di era pengambilan keputusan berbasis data, perusahaan sering kali memiliki data dalam jumlah besar namun belum dimanfaatkan secara optimal. Tanpa proses eksplorasi yang tepat, pola, tren, dan anomali dalam data sulit untuk diidentifikasi, sehingga keputusan bisnis berisiko kurang akurat. Oleh karena itu, Exploratory Data Analysis (EDA) diperlukan untuk memahami karakteristik data, mengevaluasi kualitas data, serta menggali insight awal sebelum digunakan untuk analisis lanjutan atau pengambilan keputusan strategis.
