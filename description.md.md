@@ -1,5 +1,5 @@
 # Judul Project
-**Amazon Sales Data Analysis and Business Insight 2025**
+Sales Data Pipeline: Extract, Transform, Load, and Visualize
 
 ## Problem Background
 Objective Project — Amazon Sales 2025
